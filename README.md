@@ -39,8 +39,8 @@ The skills I have developed through these projects, including object-oriented pr
 
 If you have any questions or would like to connect, please feel free to reach out:
 
-- **Email**: [niaz.khan1@snhu.edu]
-- **LinkedIn**: [https://www.linkedin.com/in/niazkhan0731]
-- **GitHub**: [https://www.github.com/niazkhan0731]
+- **Email**: niaz.khan1@snhu.edu
+- **LinkedIn**: https://www.linkedin.com/in/niazkhan0731
+- **GitHub**: https://www.github.com/niazkhan0731
 
 Thank you for visiting my C++ Programming Portfolio!
