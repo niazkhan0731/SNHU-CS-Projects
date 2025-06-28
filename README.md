@@ -67,8 +67,8 @@ Throughout the program, peer reviews and group feedback helped me become a more 
 I'd love to connect professionally or collaborate on future projects!
 
 - **Email:** niazkhan0731@gmail.com  
-- **LinkedIn:** [linkedin.com/in/niazkhan](https://www.linkedin.com/in/niazkhan0731)  
-- **GitHub:** [github.com/niazkhan1](https://github.com/niazkhan0731)
+- **LinkedIn:** [linkedin.com/in/niazkhan0731](https://www.linkedin.com/in/niazkhan0731)  
+- **GitHub:** [github.com/niazkhan0731](https://github.com/niazkhan0731)
 
 ---
 
