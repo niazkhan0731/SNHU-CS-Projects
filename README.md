@@ -1,48 +1,75 @@
-# SNHU Computer Science Projects
+# 🧠 SNHU Computer Science Projects Portfolio
 
-## Overview
+## 📘 Overview
 
-Welcome to my SNHU Computer Science Projects repository! This repository showcases a diverse collection of projects from various computer science courses I have completed during my studies. These projects demonstrate my proficiency in multiple programming languages and concepts, including but not limited to C++.
+Welcome to my portfolio repository of completed projects from the **Bachelor of Science in Computer Science** program at **Southern New Hampshire University (SNHU)**. This collection highlights a wide range of hands-on assignments and capstone work demonstrating my skills in **software engineering**, **data structures**, **databases**, and **full-stack development**.
 
-## Project Structure
+These projects span multiple programming languages, technologies, and real-world problem domains. They reflect my continued growth as a developer and showcase my ability to design, implement, and document maintainable and scalable solutions.
 
-The projects in this repository are organized for clarity and ease of navigation:
+---
 
-- **Source Code**: Core implementation files, including `*.cpp`, `*.h`, and other relevant code files.
-- **Documentation**: In-line comments within the code and separate documentation files explaining each project's purpose, design, and usage.
-- **Pseudocode/Flowcharts**: Planning materials used during development to visualize and plan solutions.
-- **Executable/Build Files**: Compiled binaries (where applicable) to run the programs.
-- **Readme**: Each project folder contains its own `README.md` file with detailed information about the specific project.
+## 🧱 Project Categories & Technologies
 
-## Projects
+Projects are categorized by technology stack and course. They include:
 
-Here you will find various projects categorized by programming language and course. Each project includes:
+- 💻 **Languages**: Python, Java, C++, SQL, JavaScript
+- 🧮 **Data & Algorithms**: Sorting/searching algorithms, recursion, object-oriented design
+- 🗃️ **Databases**: MongoDB, MySQL, CRUD APIs, data pipelines
+- 📊 **Dashboards**: Python Dash, data visualization, Leaflet mapping
+- 📱 **Mobile Development**: Android Studio, sensor apps, SQLite storage
+- 🌐 **Web Development**: RESTful APIs, JSON handling, MVC pattern
+- 🧪 **Testing & Documentation**: Unit testing, code commenting, technical reports
 
-- **Project Overview**: A brief description of the project's goals and objectives.
-- **Code Files**: The source code files for the project.
-- **Documentation**: Details on how to use and understand the project.
-- **Additional Resources**: Any relevant pseudocode, flowcharts, or executable files.
+---
 
-## Reflection
+## 📁 Project Structure
 
-### Interpreting User Needs and Implementing Solutions
+Each project folder contains:
 
-In each project, interpreting user needs involved understanding the problem requirements and translating them into functional solutions. Creating user stories and gathering requirements helped in designing appropriate algorithms and implementing them effectively.
+- `Source Code`: Python (`.py`), C++ (`.cpp`, `.h`), Java (`.java`), and other implementation files
+- `README.md`: A detailed description of the project, technologies, usage, and learning outcomes
+- `Documentation`: In-code comments and optionally separate design docs or diagrams
+- `Data/Resources`: Sample input files, datasets, pseudocode, and flowcharts
+- `Executables` (if applicable): Ready-to-run builds or instructions to launch locally
 
-### Approach to Development and Agile Processes
+---
 
-My approach to development involves iterative progress and adaptability. Utilizing Agile methodologies, such as Scrum and Kanban, has been integral in managing project tasks, incorporating feedback, and improving processes. I aim to continue using these practices in future development work to enhance team collaboration and project outcomes.
+## 📂 Sample Featured Projects
 
-### Being a Good Team Member
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Grazioso Salvare Dashboard** | Interactive data dashboard using Dash + MongoDB to filter and map animal shelter data | Python, Dash, MongoDB |
+| **Animal Shelter CRUD API** | Modular Python class for MongoDB CRUD ops with PyMongo | Python, NoSQL |
+| **Event Tracker App** | Android mobile app with login, SQLite data storage, and notifications | Java, Android Studio |
+| **Algorithm Visualizer** | C++ program that visualizes common sorting algorithms with step counters | C++ |
+| **Inventory System** | Java application managing product inventory using OOP principles | Java |
+| **Portfolio Site** | HTML/JS web page showcasing student projects and contact info | HTML, CSS, JavaScript |
 
-Being a good team member in software development means contributing effectively, communicating openly, and supporting the team in achieving goals. It involves being proactive, accepting feedback, and collaborating to resolve challenges and ensure project success.
+> ✨ More projects added regularly as courses progress.
 
-## Contact
+---
 
-If you have any questions or would like to connect, please feel free to reach out:
+## 🪄 Reflection: CS Program Takeaways
 
-- **Email**: niaz.khan1@snhu.edu
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/niazkhan0731)
-- **GitHub**: [GitHub Profile](https://www.github.com/niazkhan0731)
+### Interpreting User Needs & Implementing Solutions
+Every project began with understanding a user’s perspective—whether it was a fictional company like Grazioso Salvare or a systems-level program spec. From user stories to interface design, I’ve translated problem statements into testable, working solutions.
+
+### Agile Thinking & Iterative Development
+Using Agile-inspired practices such as iteration, incremental updates, and feedback loops helped me refine my code and manage large project scopes. Tools like Kanban boards and version control enhanced collaboration and clarity.
+
+### Collaboration & Team Contribution
+Throughout the program, peer reviews and group feedback helped me become a more effective communicator and problem-solver. I value writing clean, well-documented code that others can easily understand and contribute to.
+
+---
+
+## 📬 Contact
+
+I'd love to connect professionally or collaborate on future projects!
+
+- **Email:** niazkhan0731@gmail.com  
+- **LinkedIn:** [linkedin.com/in/niazkhan](https://www.linkedin.com/in/niazkhan0731)  
+- **GitHub:** [github.com/niazkhan1](https://github.com/niazkhan0731)
+
+---
 
 Thank you for visiting my SNHU Computer Science Projects repository!
